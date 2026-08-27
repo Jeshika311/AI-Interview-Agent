@@ -342,22 +342,6 @@ Some planned improvements include:
 
 ---
 
-## 👩‍💻 Author
-
-### Jeshika Sharma
-
-**Computer Science & Engineering Student | MERN Stack Developer | AI Enthusiast**
-
-This project was developed as a full-stack application to explore the integration of **MERN Stack, Generative AI, authentication, payment systems, resume processing, and real-time interview experiences**.
-
----
-
 ## ⭐ Support
 
 If you found this project interesting or useful, consider giving it a ⭐ on GitHub!
-
----
-
-## 📜 License
-
-This project is created for educational and development purposes.
