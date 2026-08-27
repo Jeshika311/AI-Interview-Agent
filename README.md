@@ -222,7 +222,7 @@ Authenticated users can:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Interview-Agent.git
+git clone https://github.com/Jeshika311/AI-Interview-Agent
 cd AI-Interview-Agent
 ```
 
